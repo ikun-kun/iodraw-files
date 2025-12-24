@@ -31,10 +31,16 @@
             <mxPoint x="820" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-67" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-65">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-67" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-65">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="590" y="-750" as="sourcePoint" />
             <mxPoint x="740" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-68" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="600" y="-740" as="sourcePoint" />
+            <mxPoint x="765" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
