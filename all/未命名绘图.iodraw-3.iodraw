@@ -11,7 +11,7 @@
           <mxGeometry x="45" y="110" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-32" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-1140" width="300" height="200" as="geometry" />
+          <mxGeometry x="190" y="-1080" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-34" value="车位识别" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="850" y="-880" width="100" height="590" as="geometry" />
