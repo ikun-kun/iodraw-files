@@ -28,9 +28,9 @@
             <mxPoint x="820" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-64" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-30">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-64" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-30">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="640" y="-760" as="sourcePoint" />
+            <mxPoint x="590" y="-760" as="sourcePoint" />
             <mxPoint x="720" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
