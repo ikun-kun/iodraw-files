@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;[package] HSUVRequirements[HSUV Specification]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
-          <mxGeometry x="260" y="-1050" width="1120" height="720" as="geometry" />
-        </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-30" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="790" y="-880" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-31" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-880" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="-880" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-32" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-900" width="300" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
