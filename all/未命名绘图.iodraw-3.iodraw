@@ -4,10 +4,8 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="UJrluJsq63jJBXF4g1oe-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="-730" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30" target="UJrluJsq63jJBXF4g1oe-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-30" value="登录模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="710" y="-880" width="100" height="300" as="geometry" />
