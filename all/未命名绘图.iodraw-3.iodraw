@@ -7,38 +7,8 @@
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;[package] HSUVRequirements[HSUV Specification]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
           <mxGeometry x="300" y="40" width="1120" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-4" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="724" y="557" />
-            </Array>
-            <mxPoint x="834.5" y="556.9999999999998" as="sourcePoint" />
-            <mxPoint x="1064.4999999999995" y="556.9999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-5" value="提示计费完成并开启闸机" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="950" y="609" />
-            </Array>
-            <mxPoint x="1274.4999999999995" y="609" as="sourcePoint" />
-            <mxPoint x="1064.4999999999995" y="609" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-6" value="显示计费结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="727" y="661" />
-            </Array>
-            <mxPoint x="1064.4999999999995" y="661" as="sourcePoint" />
-            <mxPoint x="834.5" y="661" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="460" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-8" value="离场感应器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="140" y="970" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-9" value="离场交互界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="340" y="970" width="150" height="316" as="geometry" />
@@ -46,11 +16,12 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-10" value="计费控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="587" y="970" width="150" height="316" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-11" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-8" target="UJrluJsq63jJBXF4g1oe-9">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-11" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="324" y="1077" />
             </Array>
+            <mxPoint x="214.32352941176464" y="1077" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-12" value="提示计费完成并开启闸机" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-10" target="UJrluJsq63jJBXF4g1oe-9">
@@ -60,11 +31,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-13" value="显示计费结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-9" target="UJrluJsq63jJBXF4g1oe-8">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-13" value="显示计费结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="327" y="1181" />
             </Array>
+            <mxPoint x="214.32352941176464" y="1181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
