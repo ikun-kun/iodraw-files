@@ -32,8 +32,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-66" value="1：输入车牌/扫码登录" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;rounded=0;" edge="1" target="UJrluJsq63jJBXF4g1oe-65" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0048" relative="1" as="geometry">
             <mxPoint x="590" y="-760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="630" y="-760" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
