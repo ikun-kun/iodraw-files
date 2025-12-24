@@ -22,6 +22,12 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="-880" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-58" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="-650" as="sourcePoint" />
+            <mxPoint x="630" y="-700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
