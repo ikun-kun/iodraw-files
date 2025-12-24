@@ -70,9 +70,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-91" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry x="0.8157" width="80" relative="1" as="geometry">
-            <mxPoint x="1028" y="-520" as="sourcePoint" />
-            <mxPoint x="598" y="-520" as="targetPoint" />
+          <mxGeometry x="0.7087" width="80" relative="1" as="geometry">
+            <mxPoint x="1027" y="-520" as="sourcePoint" />
+            <mxPoint x="597" y="-520" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
