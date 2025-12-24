@@ -37,20 +37,11 @@
             <mxPoint x="740" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-68" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-70" target="UJrluJsq63jJBXF4g1oe-34">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-68" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30" target="UJrluJsq63jJBXF4g1oe-34">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="712" y="-710" as="sourcePoint" />
             <mxPoint x="877" y="-710" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-69" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30" target="UJrluJsq63jJBXF4g1oe-70">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="759" y="-730" as="sourcePoint" />
-            <mxPoint x="900" y="-730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-70" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="895" y="-770" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
