@@ -13,6 +13,9 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-32" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="-1120" width="300" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-33" value="登录模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="850" y="-880" width="100" height="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
