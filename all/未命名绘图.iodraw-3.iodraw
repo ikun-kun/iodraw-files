@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="1221" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1785" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -37,13 +37,13 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UJrluJsq63jJBXF4g1oe-36">
           <mxGeometry x="45" y="440" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-67" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-65">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-67" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-65">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="590" y="-750" as="sourcePoint" />
             <mxPoint x="740" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-74" value="2：查询预约车位" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-74" value="2：查询预约车位" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="770" y="-710" as="sourcePoint" />
             <mxPoint x="895" y="-710" as="targetPoint" />
