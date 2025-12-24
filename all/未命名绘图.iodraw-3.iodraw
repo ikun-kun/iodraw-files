@@ -11,13 +11,13 @@
           <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-1" value="离场感应器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="150" height="316" as="geometry" />
+          <mxGeometry x="570" y="450" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-2" value="离场交互界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="740" y="450" width="150" height="316" as="geometry" />
+          <mxGeometry x="830" y="450" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-3" value="计费控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="987" y="450" width="150" height="316" as="geometry" />
+          <mxGeometry x="1140" y="450" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-4" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-1" target="UJrluJsq63jJBXF4g1oe-2">
           <mxGeometry relative="1" as="geometry">
