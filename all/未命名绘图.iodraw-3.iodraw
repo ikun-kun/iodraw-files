@@ -40,7 +40,7 @@
             <mxPoint x="740" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-74" value="1：输入车牌/扫码登录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-74" value="2：查询预约车位" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-30">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="770" y="-710" as="sourcePoint" />
             <mxPoint x="895" y="-710" as="targetPoint" />
