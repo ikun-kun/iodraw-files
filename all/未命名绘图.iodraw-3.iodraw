@@ -8,7 +8,7 @@
           <mxGeometry x="260" y="-1050" width="1120" height="720" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-15" value="离场感应器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-890" width="150" height="316" as="geometry" />
+          <mxGeometry x="430" y="-890" width="150" height="390" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-16" value="离场交互界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="630" y="-890" width="150" height="316" as="geometry" />
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-574" width="130" height="60" as="geometry" />
+          <mxGeometry x="350" y="-500" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
