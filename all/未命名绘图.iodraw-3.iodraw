@@ -22,18 +22,16 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="-880" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-49" value="登录模块" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-660" width="160" height="60" as="geometry" />
+        <mxCell id="UJrluJsq63jJBXF4g1oe-51" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-600" as="sourcePoint" />
+            <mxPoint x="600" y="-560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-50" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-560" width="20" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-51" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;rounded=0;" edge="1" source="UJrluJsq63jJBXF4g1oe-49" target="UJrluJsq63jJBXF4g1oe-50" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-52" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;rounded=0;" edge="1" source="UJrluJsq63jJBXF4g1oe-50" parent="1">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-52" value="" style="edgeStyle=none;html=1;dashed=1;endArrow=none;rounded=0;" edge="1" parent="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="600" y="-200" as="targetPoint" />
+            <mxPoint x="600" y="-480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
