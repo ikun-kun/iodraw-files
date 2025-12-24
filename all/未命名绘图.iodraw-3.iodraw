@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="UJrluJsq63jJBXF4g1oe-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-100" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="-940" width="840" height="730" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-30" value="登录模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -124,6 +124,9 @@
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UJrluJsq63jJBXF4g1oe-101" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="-840" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
