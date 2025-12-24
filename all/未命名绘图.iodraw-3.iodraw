@@ -7,20 +7,18 @@
         <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;req&lt;/b&gt;&amp;nbsp;[package] HSUVRequirements[HSUV Specification]&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
           <mxGeometry x="260" y="-1050" width="1120" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-15" value="离场感应器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-890" width="150" height="330" as="geometry" />
-        </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-16" value="离场交互界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-890" width="150" height="316" as="geometry" />
+          <mxGeometry x="760" y="-890" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-17" value="计费控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="877" y="-890" width="150" height="316" as="geometry" />
+          <mxGeometry x="970" y="-890" width="150" height="316" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-18" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-15" target="UJrluJsq63jJBXF4g1oe-16">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-18" value="识别车牌信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" target="UJrluJsq63jJBXF4g1oe-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="614" y="-783" />
             </Array>
+            <mxPoint x="603.6818181818182" y="-715" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-19" value="提示计费完成并开启闸机" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-17" target="UJrluJsq63jJBXF4g1oe-16">
@@ -30,11 +28,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-20" value="显示计费结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-16" target="UJrluJsq63jJBXF4g1oe-15">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-20" value="显示计费结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="617" y="-679" />
             </Array>
+            <mxPoint x="603.6818181818182" y="-732" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
