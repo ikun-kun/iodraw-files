@@ -89,7 +89,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-95" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-34">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-95" value="7：返回车位导航·路线" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-34">
           <mxGeometry x="0.5858" width="80" relative="1" as="geometry">
             <mxPoint x="1085" y="-420" as="sourcePoint" />
             <mxPoint x="1165" y="-420" as="targetPoint" />
