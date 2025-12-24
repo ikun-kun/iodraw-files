@@ -56,9 +56,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UJrluJsq63jJBXF4g1oe-85" target="UJrluJsq63jJBXF4g1oe-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
