@@ -13,7 +13,7 @@
         <mxCell id="UJrluJsq63jJBXF4g1oe-32" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="-1120" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="UJrluJsq63jJBXF4g1oe-33" value="&lt;font face=&quot;DM Mono, monospace&quot; color=&quot;#32302c&quot;&gt;&lt;span style=&quot;font-size: 13px; background-color: rgb(228, 228, 226);&quot;&gt;c&lt;/span&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="UJrluJsq63jJBXF4g1oe-34" value="车位识别" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="827" y="-880" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
