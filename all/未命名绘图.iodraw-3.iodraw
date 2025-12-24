@@ -11,7 +11,7 @@
           <mxGeometry x="430" y="-890" width="150" height="330" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-16" value="离场交互界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-890" width="150" height="316" as="geometry" />
+          <mxGeometry x="650" y="-890" width="150" height="316" as="geometry" />
         </mxCell>
         <mxCell id="UJrluJsq63jJBXF4g1oe-17" value="计费控制器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="877" y="-890" width="150" height="316" as="geometry" />
