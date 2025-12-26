@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-41">
+        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-42" value="+明确责任人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-41">
           <mxGeometry x="0.1326" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="6pgzLV5U24DRZ0gS0Jn1-28" value="+publish()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="6pgzLV5U24DRZ0gS0Jn1-27">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6pgzLV5U24DRZ0gS0Jn1-31" target="6pgzLV5U24DRZ0gS0Jn1-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6pgzLV5U24DRZ0gS0Jn1-31" value="opera" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="308" width="140" height="52" as="geometry" />
