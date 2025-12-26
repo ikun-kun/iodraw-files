@@ -103,7 +103,7 @@
         <mxCell id="6pgzLV5U24DRZ0gS0Jn1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6pgzLV5U24DRZ0gS0Jn1-22" target="6pgzLV5U24DRZ0gS0Jn1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-26" value="+制定与执行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-25">
+        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-26" value="+制定或执行维护计划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-25">
           <mxGeometry x="-0.3608" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-20" as="offset" />
           </mxGeometry>
