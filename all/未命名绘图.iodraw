@@ -1,0 +1,140 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="hGrNuku-KveaPxfH_k5-">
+    <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="470" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-46" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-3" target="9K3J7e5PiOfoTYwr0ESO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-3" target="9K3J7e5PiOfoTYwr0ESO-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-3" target="9K3J7e5PiOfoTYwr0ESO-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;车主（用户）&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-7" target="9K3J7e5PiOfoTYwr0ESO-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-7" target="9K3J7e5PiOfoTYwr0ESO-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-7" target="9K3J7e5PiOfoTYwr0ESO-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理员&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="740" y="422.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-8" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;用户登录&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="212.5" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-10" target="9K3J7e5PiOfoTYwr0ESO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1107" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-20" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.155" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-10" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;重置/更改密码&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="212.5" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-18" target="9K3J7e5PiOfoTYwr0ESO-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-24" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.0783" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-18" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;在线预订车位&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="290" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-21" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;车位状态实时查询&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="290" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-26" target="9K3J7e5PiOfoTYwr0ESO-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-57" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.1054" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-26" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;停车费支付&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="482.5" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-27" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;支付方式选择&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&amp;nbsp;(如微信/余额)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="400" width="194" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-29" target="9K3J7e5PiOfoTYwr0ESO-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-58" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.2848" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-29" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;使用优惠券&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="570" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-31" target="9K3J7e5PiOfoTYwr0ESO-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-59" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.183" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-31" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;取消预约&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="382.5" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-33" target="9K3J7e5PiOfoTYwr0ESO-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-60" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.0031" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-33" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;管理员登录&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="460" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-37" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;身份双重验证&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="394" y="530" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="9K3J7e5PiOfoTYwr0ESO-50" target="9K3J7e5PiOfoTYwr0ESO-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-61" value="&lt;span style=&quot;color: rgb(50, 48, 44); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 13px; text-align: start; text-wrap-mode: wrap; background-color: rgb(228, 228, 226);&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9K3J7e5PiOfoTYwr0ESO-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.2472" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-50" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;财务统计&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="570" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-51" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;数据报表生成&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="366" y="630" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9K3J7e5PiOfoTYwr0ESO-54" value="&lt;strong style=&quot;box-sizing: border-box; color: rgb(26, 28, 30); font-family: Inter, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;ng-star-inserted&quot;&gt;维护订单信息&lt;/span&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540" y="660" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2vWFVr4hP96ek4kLlNSa-1" value="&lt;span style=&quot;font-size:12.0pt;line-height:150%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&lt;br/&gt;mso-bidi-font-style:italic&quot;&gt;基于&lt;span lang=&quot;EN-US&quot;&gt;Java Web&lt;/span&gt;技术实现的智能停车场服务系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="242" y="176" width="410" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
