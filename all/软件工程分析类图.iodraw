@@ -45,7 +45,7 @@
         <mxCell id="6pgzLV5U24DRZ0gS0Jn1-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.681;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6pgzLV5U24DRZ0gS0Jn1-5" target="6pgzLV5U24DRZ0gS0Jn1-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-20" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-19">
+        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-20" value="+进场登记" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-19">
           <mxGeometry x="-0.1986" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
