@@ -67,6 +67,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6pgzLV5U24DRZ0gS0Jn1-10" value="客户订单缴费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pgzLV5U24DRZ0gS0Jn1-8">
+          <mxGeometry x="-0.0168" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
